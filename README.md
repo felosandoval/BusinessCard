@@ -1,2 +1,2 @@
-# tarea desarrollo movil IWG101 --> Felipe Sandoval Cornejo
-APP MODIFICADA EN BASE A FLUTTER UTILIZANDO DART
+## Desarrollo movil UTFSM --> Felipe Sandoval Cornejo
+Aplicación de flutter con lenguaje Dart
